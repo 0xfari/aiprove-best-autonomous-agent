@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640">
+<rect width="640" height="640" rx="48" fill="#0b0f1a"/>
+<circle cx="320" cy="300" r="190" fill="#14213d"/>
+<circle cx="320" cy="300" r="150" fill="#1b2f55"/>
+<path d="M230 210 L320 130 L410 210 L390 330 L320 380 L250 330 Z" fill="#f4a259" stroke="#fff" stroke-width="6" stroke-linejoin="round"/>
+<path d="M250 210 L230 130 L285 175 Z" fill="#f4a259" stroke="#fff" stroke-width="6" stroke-linejoin="round"/>
+<path d="M390 210 L410 130 L355 175 Z" fill="#f4a259" stroke="#fff" stroke-width="6" stroke-linejoin="round"/>
+<circle cx="275" cy="265" r="16" fill="#0b0f1a"/><circle cx="275" cy="265" r="7" fill="#fff"/>
+<circle cx="365" cy="265" r="16" fill="#0b0f1a"/><circle cx="365" cy="265" r="7" fill="#fff"/>
+<path d="M290 315 Q320 335 350 315" stroke="#0b0f1a" stroke-width="7" fill="none" stroke-linecap="round"/>
+<path d="M320 380 L320 470" stroke="#f4a259" stroke-width="14" stroke-linecap="round"/>
+<circle cx="320" cy="490" r="34" fill="#2ec4b6" stroke="#fff" stroke-width="6"/>
+<path d="M305 490 L317 502 L337 480" stroke="#0b0f1a" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="320" y="585" font-family="monospace" font-size="42" font-weight="bold" fill="#fff" text-anchor="middle">PROVE</text>
+</svg>
